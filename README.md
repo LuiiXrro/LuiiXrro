@@ -28,6 +28,6 @@
 
 ## Contacto
 
-Si tienes preguntas, sugerencias o simplemente quieres charlar sobre JavaScript, puedes encontrarme en [tu@email.com] o en mis redes sociales.
+Si tienes preguntas, sugerencias o simplemente quieres charlar sobre JavaScript, puedes encontrarme en luisrojomar@gmail.com o en mis redes sociales.
 
 ¡Gracias por acompañarme en este viaje de aprendizaje en JavaScript! 🚀
